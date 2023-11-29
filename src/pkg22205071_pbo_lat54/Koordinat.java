@@ -7,6 +7,11 @@ package pkg22205071_pbo_lat54;
 /**
  *
  * @author user
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : koordinat program dengan gambar class diagram dan implementasi coding dengan konsep pendekatan berbasis objek, untuk menyelesaikan studi kasus dengan ketentuan inputan didalam coding (KOORDINAT)
  */
 public class Koordinat {
     protected int x;
